@@ -1,0 +1,18 @@
+{
+  "name": "hexlet_http_request",
+  "version": "1.0.0",
+  "description": "hexlet http request",
+  "main": "index.js",
+  "scripts": {
+    "babel-node": "node_modules/.bin/babel-node"
+  },
+  "keywords": [],
+  "author": "Andrey Leontev",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-stage-0": "^6.24.1"
+  }
+}
